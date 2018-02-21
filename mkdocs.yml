@@ -3,7 +3,7 @@ theme:
   name: 'material'
   language: 'pt'
   logo: 'database.svg'
-    icon: 'home'
+  #  icon: 'home'
   palette:
     primary: 'blue grey'
     accent: 'blue grey'    
