@@ -5,8 +5,8 @@ theme:
   logo: #'database.svg'
     icon: 'home'
   palette:
-    primary: 'teal'
-    accent: 'teal'    
+    primary: 'cyan'
+    accent: 'cyan'    
 markdown_extensions:
         - admonition
         - codehilite:
