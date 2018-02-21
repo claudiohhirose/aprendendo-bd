@@ -4,6 +4,9 @@ theme:
   language: 'pt'
   logo:
     icon: 'home'
+  palette:
+    primary: 'red'
+    accent: 'red'    
 markdown_extensions:
         - admonition
         - codehilite:
