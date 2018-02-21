@@ -2,11 +2,11 @@ site_name: Aprendendo Banco de Dados
 theme:
   name: 'material'
   language: 'pt'
-  logo: 'database.svg'
-  #  icon: 'home'
+  logo: #'database.svg'
+    icon: 'home'
   palette:
-    primary: 'pink'
-    accent: 'pink'    
+    primary: 'teal'
+    accent: 'teal'    
 markdown_extensions:
         - admonition
         - codehilite:
