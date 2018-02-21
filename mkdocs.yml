@@ -5,8 +5,8 @@ theme:
   logo:
     icon: 'home'
   palette:
-    primary: 'red'
-    accent: 'red'    
+    primary: 'blue grey'
+    accent: 'blue grey'    
 markdown_extensions:
         - admonition
         - codehilite:
