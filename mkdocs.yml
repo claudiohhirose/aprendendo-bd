@@ -2,7 +2,7 @@ site_name: Aprendendo Banco de Dados
 theme:
   name: 'material'
   language: 'pt'
-  logo:
+  logo: 'database.svg'
     icon: 'home'
   palette:
     primary: 'blue grey'
