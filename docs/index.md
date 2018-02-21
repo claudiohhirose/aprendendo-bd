@@ -2,3 +2,6 @@
 
 Aprenda a fazer modelagem e projeto de um Sistema de Banco de Dados.
 
+```sql
+select * from tabela;
+```
