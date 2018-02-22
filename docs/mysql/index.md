@@ -16,11 +16,11 @@ Clique no item de menu "Downloads".
 
 [![img](https://4.bp.blogspot.com/-x8VLY4yYD8M/WaOBn1v1IXI/AAAAAAAABbo/UH7wJpak6gUhwFYr_wxoCqjU-arFODbfgCLcBGAs/s640/2017-08-27%2B23_29_53-MySQL.png)](https://4.bp.blogspot.com/-x8VLY4yYD8M/WaOBn1v1IXI/AAAAAAAABbo/UH7wJpak6gUhwFYr_wxoCqjU-arFODbfgCLcBGAs/s1600/2017-08-27%2B23_29_53-MySQL.png)
 
-**2) **Na página "Downloads", vá até o fim da página e clique no link  "Community (GPL) Downloads »"
+**2)** Na página "Downloads", vá até o fim da página e clique no link  "Community (GPL) Downloads »"
 
 [![img](https://4.bp.blogspot.com/-7RM7KV_u12s/WaOBnaFMSMI/AAAAAAAABbg/gmrTGkqlnc0yfj2sKlwSrwdfwqcfTEARACLcBGAs/s640/2017-08-27%2B23_32_19-MySQL%2B__%2BMySQL%2BDownloads.png)](https://4.bp.blogspot.com/-7RM7KV_u12s/WaOBnaFMSMI/AAAAAAAABbg/gmrTGkqlnc0yfj2sKlwSrwdfwqcfTEARACLcBGAs/s1600/2017-08-27%2B23_32_19-MySQL%2B__%2BMySQL%2BDownloads.png)
 
-**3) ** Na página "MySQL Community Downloads",  clique no link "MySQL Community Server (GPL)". A versão deste manual de instalação é 5.7.19 (acessado em 27 de agosto de 2017).
+**3)** Na página "MySQL Community Downloads",  clique no link "MySQL Community Server (GPL)". A versão deste manual de instalação é 5.7.19 (acessado em 27 de agosto de 2017).
 
 [![img](https://2.bp.blogspot.com/-1qtJMag0-Kw/WaOBoFZm54I/AAAAAAAABbs/Jg8jDhs5ICk6ZJ6awUL9kj5ks5-GbC-3gCLcBGAs/s640/2017-08-27%2B23_32_39-MySQL%2B__%2BMySQL%2BCommunity%2BDownloads.png)](https://2.bp.blogspot.com/-1qtJMag0-Kw/WaOBoFZm54I/AAAAAAAABbs/Jg8jDhs5ICk6ZJ6awUL9kj5ks5-GbC-3gCLcBGAs/s1600/2017-08-27%2B23_32_39-MySQL%2B__%2BMySQL%2BCommunity%2BDownloads.png)
 
@@ -30,7 +30,7 @@ Clique no item de menu "Downloads".
 
 [![img](https://3.bp.blogspot.com/-t-N7sYGtGTA/WaOBo4BU9NI/AAAAAAAABcM/4GBGBcr5P-E_tvQwL_sA8Q2n9_aI-PqhgCEwYBhgL/s640/2017-08-27%2B23_33_17-MySQL%2B__%2BDownload%2BMySQL%2BCommunity%2BServer.png)](https://3.bp.blogspot.com/-t-N7sYGtGTA/WaOBo4BU9NI/AAAAAAAABcM/4GBGBcr5P-E_tvQwL_sA8Q2n9_aI-PqhgCEwYBhgL/s1600/2017-08-27%2B23_33_17-MySQL%2B__%2BDownload%2BMySQL%2BCommunity%2BServer.png)
 
-**5)  **Verifique se a opção "Select Operationg System" está como "Microsoft Windows" .
+**5)** Verifique se a opção "Select Operationg System" está como "Microsoft Windows" .
 
 Clique no link "Go to Download Page >" do item "Windows (x86, 32 & 64 bit), MySQL Installer MSI".
 
@@ -64,7 +64,7 @@ O instalador maior, também conhecido como instalador offline, é para computado
 
 [![img](https://1.bp.blogspot.com/-TO3ffDYNfDs/WaOWPHSUptI/AAAAAAAABdA/71w53atLe1M8hyBs4s6N3Og371VxOhsIgCLcBGAs/s400/2017-08-18%2B16_32_07-MySQL%2BInstaller%2B-%2BCommunity.png)](https://1.bp.blogspot.com/-TO3ffDYNfDs/WaOWPHSUptI/AAAAAAAABdA/71w53atLe1M8hyBs4s6N3Og371VxOhsIgCLcBGAs/s1600/2017-08-18%2B16_32_07-MySQL%2BInstaller%2B-%2BCommunity.png)
 
- **11)** Na tela de "License Agreement" ("Contrato de Licença"),  leia a licença do software e selecione a opção "I accept the license terms" ("Eu aceito os termos da licença") e pressione o botão "Next".
+**11)** Na tela de "License Agreement" ("Contrato de Licença"),  leia a licença do software e selecione a opção "I accept the license terms" ("Eu aceito os termos da licença") e pressione o botão "Next".
 
 [![img](https://4.bp.blogspot.com/-mmPZPovwxZ0/WaOWQOIUbnI/AAAAAAAABdE/5NgkTrXjnt8w5RYQ3UmoXSUh4V6yMcfygCLcBGAs/s400/2017-08-18%2B16_33_23-MySQL%2BInstaller.png)](https://4.bp.blogspot.com/-mmPZPovwxZ0/WaOWQOIUbnI/AAAAAAAABdE/5NgkTrXjnt8w5RYQ3UmoXSUh4V6yMcfygCLcBGAs/s1600/2017-08-18%2B16_33_23-MySQL%2BInstaller.png)
 
@@ -98,7 +98,7 @@ Após isso, pressione o botão "Next".
 
 [![img](https://3.bp.blogspot.com/-4r8vWH_yawM/WaOWRUqGbFI/AAAAAAAABfE/P58wycY-tPAoM-ZBm1pUEpRLfp7OTITxgCEwYBhgL/s400/2017-08-18%2B16_33_54-MySQL%2BInstaller.png)](https://3.bp.blogspot.com/-4r8vWH_yawM/WaOWRUqGbFI/AAAAAAAABfE/P58wycY-tPAoM-ZBm1pUEpRLfp7OTITxgCEwYBhgL/s1600/2017-08-18%2B16_33_54-MySQL%2BInstaller.png)
 
-**14) **Na tela "Select Products and Features" ("Selecione produtos e recursos"), irá aparecer algumas categorias de produtos disponíveis:
+**14)** Na tela "Select Products and Features" ("Selecione produtos e recursos"), irá aparecer algumas categorias de produtos disponíveis:
 
 - MySQL Servers
 - Applications
@@ -129,7 +129,7 @@ Clique  com o ponteiro do mouse na seta para a direita para selecionar o item pa
 
 [![img](https://4.bp.blogspot.com/-w6tZABLfLC8/WaOWS9f_Y7I/AAAAAAAABdw/JePxtESA9IMr9DA5AsELICv0yOIhvaKrgCLcBGAs/s400/2017-08-18%2B17_08_05-MySQL%2BInstaller.png)](https://4.bp.blogspot.com/-w6tZABLfLC8/WaOWS9f_Y7I/AAAAAAAABdw/JePxtESA9IMr9DA5AsELICv0yOIhvaKrgCLcBGAs/s1600/2017-08-18%2B17_08_05-MySQL%2BInstaller.png)
 
-**16) **Escolher o MySQL Workbench.
+**16)** Escolher o MySQL Workbench.
 
 Selecione a categoria "Applications" e clique no sinal + para expandir as subopções.
 
@@ -151,7 +151,7 @@ Após isso, pressione o botão "Next".
 
 [![img](https://1.bp.blogspot.com/-qfeeVGiEwB4/WaOWTZb-3kI/AAAAAAAABd4/lw414CztHAUCVA_rdSifix4ALEel1DwoQCLcBGAs/s400/2017-08-18%2B17_09_23-MySQL%2BInstaller.png)](https://1.bp.blogspot.com/-qfeeVGiEwB4/WaOWTZb-3kI/AAAAAAAABd4/lw414CztHAUCVA_rdSifix4ALEel1DwoQCLcBGAs/s1600/2017-08-18%2B17_09_23-MySQL%2BInstaller.png)
 
-**18) **Na tela "Installation" ("Instalação"), pressione o botão "Execute" ("Executar") para que  instalação se inicie. 
+**18)** Na tela "Installation" ("Instalação"), pressione o botão "Execute" ("Executar") para que  instalação se inicie. 
 
 [![img](https://3.bp.blogspot.com/-DjKUKTba-pc/WaOWTQbetYI/AAAAAAAABd8/mKelAXd0IbEBjtwRmIl2LqV1QViM_uBxACLcBGAs/s400/2017-08-18%2B17_09_29-MySQL%2BInstaller.png)](https://3.bp.blogspot.com/-DjKUKTba-pc/WaOWTQbetYI/AAAAAAAABd8/mKelAXd0IbEBjtwRmIl2LqV1QViM_uBxACLcBGAs/s1600/2017-08-18%2B17_09_29-MySQL%2BInstaller.png)
 
@@ -159,7 +159,7 @@ Após isso, pressione o botão "Next".
 
 [![img](https://4.bp.blogspot.com/-yh1qBPadYk0/WaOWT3BRpqI/AAAAAAAABeA/79toRlquiGot8UhMV0sGTZqe4NmwRXmbwCLcBGAs/s400/2017-08-18%2B17_09_55-MySQL%2BInstaller.png)](https://4.bp.blogspot.com/-yh1qBPadYk0/WaOWT3BRpqI/AAAAAAAABeA/79toRlquiGot8UhMV0sGTZqe4NmwRXmbwCLcBGAs/s1600/2017-08-18%2B17_09_55-MySQL%2BInstaller.png)
 
-**20) **Após a instalação estar completa, pressione o botão "Next".
+**20)** Após a instalação estar completa, pressione o botão "Next".
 
 [![img](https://3.bp.blogspot.com/--JuAZQPjqPI/WaOWT7_dlqI/AAAAAAAABeE/S6_fpMHatpsHxh3_ddZZ7AS04clpu-yugCLcBGAs/s400/2017-08-18%2B17_15_50-MySQL%2BInstaller.png)](https://3.bp.blogspot.com/--JuAZQPjqPI/WaOWT7_dlqI/AAAAAAAABeE/S6_fpMHatpsHxh3_ddZZ7AS04clpu-yugCLcBGAs/s1600/2017-08-18%2B17_15_50-MySQL%2BInstaller.png)
 
@@ -171,7 +171,7 @@ Após isso, pressione o botão "Next".
 
 [![img](https://2.bp.blogspot.com/-y-c3r-48SS4/WaOWUtCZ9pI/AAAAAAAABeM/QfUBUqlS3bc9uKor1Yr9gkas2uU0wSlKACLcBGAs/s400/2017-08-18%2B17_16_19-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/-y-c3r-48SS4/WaOWUtCZ9pI/AAAAAAAABeM/QfUBUqlS3bc9uKor1Yr9gkas2uU0wSlKACLcBGAs/s1600/2017-08-18%2B17_16_19-MySQL%2BInstaller.png)
 
-**23) **Na próxima tela, no item "Server Configuration Type" ("Tipo de Configuração do Servidor"), escolha o "Config Type" ("Tipo de Configuração") como "Development Machine" ("Máquina de desenvolvimento").
+**23)** Na próxima tela, no item "Server Configuration Type" ("Tipo de Configuração do Servidor"), escolha o "Config Type" ("Tipo de Configuração") como "Development Machine" ("Máquina de desenvolvimento").
 
 Em "Connectivity", ative a opção "TCP/IP" e verifique se o "Port Number" ("Número da Porta") está como 3306.
 
@@ -189,7 +189,7 @@ Em seguida, pressione o botão "Next".
 
 [![img](https://2.bp.blogspot.com/-iDv7g4atW_I/WaOWVc7Hp_I/AAAAAAAABeY/ViKJMjLugqIK75qkn9WPXD6F6YaFN739gCLcBGAs/s400/2017-08-18%2B17_19_36-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/-iDv7g4atW_I/WaOWVc7Hp_I/AAAAAAAABeY/ViKJMjLugqIK75qkn9WPXD6F6YaFN739gCLcBGAs/s1600/2017-08-18%2B17_19_36-MySQL%2BInstaller.png)
 
-**25) **
+**25)**
 
 Na tela "Windows Service", selecione a opção "Configure MySQL Server as a Windows Service" ("Configure o MySQL Server como um serviço Windows")  para que o MySQL seja executado em background (segundo plano) como um serviço do Windows.
 
@@ -207,13 +207,13 @@ Em seguida, pressione o botão "Next".
 
 [![img](https://1.bp.blogspot.com/-sMvS5E53mmA/WaOWVx7UhMI/AAAAAAAABek/sfv69d7G08U0Yxc_CfK5x00qa7ojraSnQCLcBGAs/s400/2017-08-18%2B17_22_36-MySQL%2BInstaller.png)](https://1.bp.blogspot.com/-sMvS5E53mmA/WaOWVx7UhMI/AAAAAAAABek/sfv69d7G08U0Yxc_CfK5x00qa7ojraSnQCLcBGAs/s1600/2017-08-18%2B17_22_36-MySQL%2BInstaller.png)
 
-**27)**Na tela "Apply Configuration" ("Aplicar configurações"), pressione o botão "Execute".
+**27)** Na tela "Apply Configuration" ("Aplicar configurações"), pressione o botão "Execute".
 
 [![img](https://2.bp.blogspot.com/--magBPGlgHI/WaOWWZDMIYI/AAAAAAAABeo/HyMZA62HpDIuTH3OJY8LZ80shheGwW-JwCLcBGAs/s400/2017-08-18%2B17_22_43-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/--magBPGlgHI/WaOWWZDMIYI/AAAAAAAABeo/HyMZA62HpDIuTH3OJY8LZ80shheGwW-JwCLcBGAs/s1600/2017-08-18%2B17_22_43-MySQL%2BInstaller.png)
 
 [![img](https://2.bp.blogspot.com/-zZ-Mp4Q_O9I/WaOWXIDJnpI/AAAAAAAABes/b_iId6xmfb82_LMRAqkTNXxPKWS-3wmnACLcBGAs/s400/2017-08-18%2B17_22_51-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/-zZ-Mp4Q_O9I/WaOWXIDJnpI/AAAAAAAABes/b_iId6xmfb82_LMRAqkTNXxPKWS-3wmnACLcBGAs/s1600/2017-08-18%2B17_22_51-MySQL%2BInstaller.png)
 
-**28) **Após o instalador configurar o computador com o MySQL, pressione o botão "Finish".
+**28)** Após o instalador configurar o computador com o MySQL, pressione o botão "Finish".
 
 [![img](https://1.bp.blogspot.com/-6H4V89QZSNo/WaOWXnLACKI/AAAAAAAABew/0HUtpoJCXVkd1rEbCIhc_Ie7jkclra7fACLcBGAs/s400/2017-08-18%2B17_23_04-MySQL%2BInstaller.png)](https://1.bp.blogspot.com/-6H4V89QZSNo/WaOWXnLACKI/AAAAAAAABew/0HUtpoJCXVkd1rEbCIhc_Ie7jkclra7fACLcBGAs/s1600/2017-08-18%2B17_23_04-MySQL%2BInstaller.png)
 
@@ -221,11 +221,11 @@ Em seguida, pressione o botão "Next".
 
 [![img](https://1.bp.blogspot.com/-i7O4pQp8658/WaOWZENDcMI/AAAAAAAABe8/PJH4JhzAAYIaJz-c0-VqAVr8JKrqbLgeACLcBGAs/s400/2017-08-18%2B17_23_27-MySQL%2BInstaller.png)](https://1.bp.blogspot.com/-i7O4pQp8658/WaOWZENDcMI/AAAAAAAABe8/PJH4JhzAAYIaJz-c0-VqAVr8JKrqbLgeACLcBGAs/s1600/2017-08-18%2B17_23_27-MySQL%2BInstaller.png)
 
-**30) **Na tela "Installation Complete" ("Instalação Completa"), selecione os itens que deseja iniciar após a instalação:
+**30)** Na tela "Installation Complete" ("Instalação Completa"), selecione os itens que deseja iniciar após a instalação:
 
 - Start MySQL Workbench after Setup ("Iniciar MySQL Workbench")
 - Start MySQL Shell after Setup ("Iniciar MySQL Shell")
 
- Para encerrar a instalação, pressione o botão "Finish".
+Para encerrar a instalação, pressione o botão "Finish".
 
 [![img](https://2.bp.blogspot.com/-7GbuE5eSkyU/WaOWZrycr3I/AAAAAAAABfA/cdDaq1HPQf4sCf4l_YDxHcpq5S2ShiiwwCLcBGAs/s400/2017-08-18%2B17_23_33-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/-7GbuE5eSkyU/WaOWZrycr3I/AAAAAAAABfA/cdDaq1HPQf4sCf4l_YDxHcpq5S2ShiiwwCLcBGAs/s1600/2017-08-18%2B17_23_33-MySQL%2BInstaller.png)
