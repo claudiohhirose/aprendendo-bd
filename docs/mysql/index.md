@@ -1,7 +1,6 @@
 #Instalação do MySQL 5.7 para Windows
 
 
-
 Este *manual* descreve como instalar o MySQL Community Server 5.7 para Windows 10 (32/64 bits) . O procedimento é semelhante para Windows 7, 8.0 e 8.1 (32 e 64 bits).
 
 Favor seguir este procedimento de instalação para facilitar o acompanhamento das aulas de Banco de Dados na Universidade São Judas Tadeu (USJT)
