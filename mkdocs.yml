@@ -50,4 +50,7 @@ extra_javascript:
         - 'extra-js/mermaid.min.js'
 extra_css:
         - 'extra-css/mermaid.neutral.css'        
-        
+pages:
+        - Home: index.md
+        - MySQL:
+            - Instalação do MySQL 5.7 para Windows: mysql/index.md
