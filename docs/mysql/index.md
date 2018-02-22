@@ -4,7 +4,7 @@
 
 Este *manual* descreve como instalar o MySQL Community Server 5.7 para Windows 10 (32/64 bits) . O procedimento é semelhante para Windows 7, 8.0 e 8.1 (32 e 64 bits).
 
-Favor seguir este procedimento de instalação para facilitar o acompanhamento das aulas de Banco de Dados na Universidade São Judas (USJT)
+Favor seguir este procedimento de instalação para facilitar o acompanhamento das aulas de Banco de Dados na Universidade São Judas Tadeu (USJT)
 
 
 
@@ -208,9 +208,7 @@ Em seguida, pressione o botão "Next".
 [![img](https://2.bp.blogspot.com/-iDv7g4atW_I/WaOWVc7Hp_I/AAAAAAAABeY/ViKJMjLugqIK75qkn9WPXD6F6YaFN739gCLcBGAs/s400/2017-08-18%2B17_19_36-MySQL%2BInstaller.png)](https://2.bp.blogspot.com/-iDv7g4atW_I/WaOWVc7Hp_I/AAAAAAAABeY/ViKJMjLugqIK75qkn9WPXD6F6YaFN739gCLcBGAs/s1600/2017-08-18%2B17_19_36-MySQL%2BInstaller.png)
 
 
-**25)**
-
-Na tela "Windows Service", selecione a opção "Configure MySQL Server as a Windows Service" ("Configure o MySQL Server como um serviço Windows")  para que o MySQL seja executado em background (segundo plano) como um serviço do Windows.
+**25)** Na tela "Windows Service", selecione a opção "Configure MySQL Server as a Windows Service" ("Configure o MySQL Server como um serviço Windows")  para que o MySQL seja executado em background (segundo plano) como um serviço do Windows.
 
 Na opção "Windows Service Name", escolha o nome que o serviço do MySQL Server terá no Windows. Por padrão, o nome será "MySQL57".
 
