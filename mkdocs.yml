@@ -50,6 +50,7 @@ extra_javascript:
         - 'extra-js/mermaid.min.js'
 extra_css:
         - 'extra-css/mermaid.neutral.css'        
+        - 'extra-css/extra.css'
 pages:
         - Home: index.md
         - MySQL:
