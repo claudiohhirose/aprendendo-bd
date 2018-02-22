@@ -46,4 +46,8 @@ extra_javascript:
         - 'https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js'
         - 'https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js'
         - 'https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js'
+        - 'extra-js/extra.js'
+        - 'extra-js/mermaid.min.js'
+extra_css:
+        - 'extra-css/mermaid.neutral.css'        
         
