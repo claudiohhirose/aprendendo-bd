@@ -53,4 +53,4 @@ extra_css:
         - 'extra-css/extra.css'
 pages:
         - Home: index.md
-        - Instalação do MySQL 5.7 para Windows: mysql/index.md
+        - Instalação do MySQL 5.7 para Windows: mysql/instalacao-mysql.md
