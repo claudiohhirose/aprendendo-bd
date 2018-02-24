@@ -2,8 +2,8 @@ site_name: Aprendendo Banco de Dados
 theme:
   name: 'material'
   language: 'pt'
-  logo: #'database.svg'
-    icon: 'home'
+  logo: 
+    icon: 'perm_data_setting'
   palette:
     primary: 'cyan'
     accent: 'cyan'    
