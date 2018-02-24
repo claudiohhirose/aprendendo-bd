@@ -1,4 +1,9 @@
 site_name: Aprendendo Banco de Dados
+site_url: https://aprendendo-bd.netlify.com
+site_description: Aprenda a fazer modelagem e projeto de um Sistema de Banco de Dados.
+site_author: Claudio Haruyoshi Hirose
+copyright: Copyright &copy; 2018 - Claudio Haruyoshi Hirose
+
 theme:
   name: 'material'
   language: 'pt'
